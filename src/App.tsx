@@ -20,7 +20,7 @@ import HowToPlay from './pages/howToPlay';
 function App() {
   return (
     <Router>
-      <div className="bg-[#0D1832] min-h-screen text-white">
+      <div className="bg-[#000000] min-h-screen text-white">
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/help" element={<HelpCenter />} />
