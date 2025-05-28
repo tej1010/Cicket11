@@ -1,1 +1,1 @@
-# Cicket11
+# CricIQ - Fantasy Cricket Platform
